@@ -16,7 +16,7 @@ Want to build something from scratch? use the [boilerplate](https://github.com/i
 
 * [NodeJs](http://nodejs.org) >= 6.x 
 * [mongodb](http://mongodb.org)
-* ~~[imagemagick](http://www.imagemagick.org/script/index.php)~~
+
 
 ## Install
 
